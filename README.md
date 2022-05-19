@@ -51,7 +51,7 @@ You can deploy this bot anywhere.
 <p>
 <br>
 <a href="https://heroku.com/deploy?template=https://github.com/Aadhi000/Ajax">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+  <img src="https://www.herokucdn.com/deploy?template=https://github.com/MrPsycho2/Auto-Filter-V3-/button.svg" alt="Deploy">
 </a>
 </p>
 </details>
