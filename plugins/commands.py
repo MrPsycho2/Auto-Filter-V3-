@@ -40,10 +40,10 @@ async def start(client, message):
             InlineKeyboardButton('💠 UᎮDΛTΞS 💠', url='https://t.me/MalluHubGP')
             ],[      
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
-            InlineKeyboardButton('CONTACT ME', url='https://t.me/Aadhi011'),
+            InlineKeyboardButton('CONTACT ME', url='https://t.me/Bea_s_t2'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
-            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA')
+            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://t.me/MalluHubTG')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
